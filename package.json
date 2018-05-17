@@ -1,0 +1,23 @@
+{
+  "name": "meals",
+  "version": "1.0.1",
+  "description": "Best meals for your diet",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.1.0-beta4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "meal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhenfreitas/my-progress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhenfreitas/my-progress/issues"
+  },
+  "homepage": "https://github.com/dhenfreitas/my-progress#readme"
+}
